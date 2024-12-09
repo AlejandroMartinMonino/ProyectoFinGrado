@@ -1,0 +1,677 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[002] # Lappet Town
+Water,2
+    60,TENTACOOL,14,19
+    30,MANTYKE,15,16
+    10,REMORAID,14,16
+OldRod
+    100,MAGIKARP,16,19
+GoodRod
+    60,BARBOACH,17,18
+    20,KRABBY,15,16
+    20,SHELLDER,16,19
+SuperRod
+    40,CHINCHOU,17,19
+    40,QWILFISH,16,19
+    15,CORSOLA,15,18
+    5,STARYU,15,17
+#-------------------------------
+[005] # Route 1
+Land,21
+    40,PIDGEY,11,14
+    40,RATTATA,11,14
+    9,PIDGEY,11,13
+    9,RATTATA,11,13
+    1,PIDGEY,14
+    1,RATTATA,14
+LandNight,21
+    39,RATTATA,10,14
+    30,HOOTHOOT,10,13
+    20,SPINARAK,8,12
+    9,HOOTHOOT,10,14
+    1,HOOTHOOT,14
+    1,RATTATA,15
+PokeRadar,20
+    100,STARLY,12,15
+#-------------------------------
+[005,1] # Route 1
+Land,21
+    40,PIDGEY,15,18
+    40,RATTATA,14,18
+    10,SENTRET,13,17
+    5,PIDGEY,14,16
+    5,RATTATA,13,16
+LandNight,21
+    40,RATTATA,14,18
+    30,HOOTHOOT,14,17
+    20,SPINARAK,12,16
+    10,CLEFAIRY,11,15
+#-------------------------------
+[021] # Route 2
+Land,21
+    50,RATTATA,12,15
+    30,POOCHYENA,11,15
+    10,SHINX,10,12
+    10,SHINX,10,11
+Water,2
+    60,MAGIKARP,7,10
+    30,GOLDEEN,11,14
+    10,STARYU,12,15
+OldRod
+    70,MAGIKARP,7,10
+    30,MAGIKARP,9,15
+GoodRod
+    60,GOLDEEN,12,14
+    20,FINNEON,12,15
+    20,MAGIKARP,12,17
+SuperRod
+    40,FINNEON,12,15
+    40,GOLDEEN,12,14
+    15,STARYU,12,15
+    5,STARYU,14,17
+HeadbuttLow
+    50,PINECO,11,13
+    30,LEDYBA,6,8
+    19,SPINARAK,9,12
+    1,MUNCHLAX,11,14
+HeadbuttHigh
+    50,PINECO,11,13
+    30,WURMPLE,6,8
+    20,SPINARAK,9,12
+PokeRadar,10
+    100,STANTLER,14
+#-------------------------------
+[028] # Natural Park
+Land,21
+    20,CATERPIE,10
+    20,SUNKERN,12
+    20,WEEDLE,10
+    15,PIDGEY,10,14
+    15,PIDGEY,12,14
+    5,KAKUNA,10
+    5,METAPOD,10
+LandNight,21
+    30,HOOTHOOT,10,14
+    30,SPINARAK,10,15
+    20,PINECO,9,13
+    10,DROWZEE,9,15
+    10,NATU,12,14
+LandMorning,21
+    25,CATERPIE,10,12
+    25,WEEDLE,10,12
+    20,PIDGEY,10,14
+    15,KAKUNA,10
+    15,METAPOD,10
+BugContest,21
+    20,CATERPIE,7,18
+    20,WEEDLE,7,18
+    10,KAKUNA,9,18
+    10,METAPOD,9,18
+    10,PARAS,10,17
+    10,VENONAT,10,16
+    5,BEEDRILL,12,15
+    5,BUTTERFREE,12,15
+    5,PINSIR,13,14
+    5,SCYTHER,13,14
+PokeRadar,40
+    50,BEEDRILL,15,18
+    50,BUTTERFREE,15,18
+#-------------------------------
+[031] # Route 3
+Land,21
+    30,NIDORANfE,12,15
+    30,NIDORANmA,12,15
+    20,PIKACHU,14,17
+    10,EEVEE,15
+    10,PONYTA,13,15
+Water,2
+    60,SURSKIT,13,14
+    35,LOTAD,14
+    5,LOTAD,15
+OldRod
+    70,MAGIKARP,6,11
+    30,MAGIKARP,10,17
+GoodRod
+    60,POLIWAG,12,15
+    20,PSYDUCK,11,14
+    20,WOOPER,13,17
+SuperRod
+    40,CHINCHOU,11,12
+    40,REMORAID,12,14
+    20,LUVDISC,10,16
+RockSmash,50
+    60,NOSEPASS,13,14
+    40,GEODUDE,12,15
+HeadbuttLow
+    30,PINECO,14,17
+    25,COMBEE,15,17
+    20,PINECO,14,16
+    10,HERACROSS,16,18
+    9,HERACROSS,16,17
+    5,COMBEE,15,16
+    1,MUNCHLAX,13,18
+HeadbuttHigh
+    50,SEEDOT,14,17
+    30,SHROOMISH,14,17
+    20,BURMY,12,15
+#-------------------------------
+[032] # TEST RUTA 1
+Land,13
+    20,BIDOOF,2,6
+    20,PIKIPEK,5
+    20,PINECO,2,6
+    20,SENTRET,2,6
+    20,ZIGZAGOON,2,7
+    10,TEDDIURSA,2,6
+    5,BULBASAUR,3,8
+    5,NATU,2,6
+Water,42
+    20,PALKIA,35,48
+#-------------------------------
+[034] # Ice Cave
+Cave,5
+    40,SWINUB,16,18
+    20,SNEASEL,14,16
+    20,SNORUNT,12,15
+    10,SMOOCHUM,11,14
+    10,SNOVER,14
+#-------------------------------
+[039] # Route 4
+Land,21
+    50,SHELLOS_1,12,15
+    40,GRIMER,13,15
+    10,MURKROW,12,14
+#-------------------------------
+[041] # Route 5
+Land,21
+    50,GRIMER,13,15
+    40,SPEAROW,13,16
+    10,SLUGMA,13,14
+#-------------------------------
+[044] # Route 6
+Land,21
+    50,SHELLOS_1,12,15
+    40,GRIMER,13,15
+    10,MURKROW,12,14
+#-------------------------------
+[047] # Route 7
+Land,21
+    50,SHELLOS,12,15
+    30,BIDOOF,14,17
+    10,MURKROW,12,14
+    10,WURMPLE,9,12
+RockSmash,50
+    90,NOSEPASS,13,14
+    10,GEODUDE,12,15
+#-------------------------------
+[049] # Rock Cave 1F
+Cave,5
+    20,MAGNETON,14,16
+    20,MAGNETON,14,17
+    20,NOSEPASS,14,15
+    20,NOSEPASS,13,14
+    10,GEODUDE,13,15
+    10,MAWILE,14,16
+#-------------------------------
+[050] # Rock Cave B1F
+Cave,5
+    20,MAGNETON,14,16
+    20,MAGNETON,14,17
+    20,NOSEPASS,14,15
+    20,NOSEPASS,13,14
+    10,BURMY,14,16
+    10,GEODUDE,13,15
+#-------------------------------
+[051] # Dungeon
+Cave,5
+    20,CHINGLING,1
+    20,CLEFFA,1
+    20,IGGLYBUFF,1
+    20,PICHU,1
+    10,RIOLU,1
+    10,TYROGUE,1
+#-------------------------------
+[066] # Safari Zone outside
+Land,21
+    20,ABRA,12,15
+    20,DODUO,13,15
+    20,NIDORANfE,15,16
+    20,NIDORANmA,15,16
+    10,HOPPIP,13,17
+    10,TANGELA,14,16
+#-------------------------------
+[068] # Safari Zone
+Land,21
+    20,EXEGGCUTE,15,18
+    20,RHYHORN,16,18
+    10,AIPOM,14,17
+    10,GIRAFARIG,16,17
+    10,VENONAT,15,17
+    10,VENONAT,15,18
+    5,HERACROSS,15,17
+    5,TAUROS,15,16
+    4,PINSIR,16
+    4,SCYTHER,16
+    1,CHANSEY,17
+    1,KANGASKHAN,19
+Water,2
+    60,PSYDUCK,16,18
+    30,MARILL,15,18
+    5,BUIZEL,15,17
+    5,SLOWPOKE,14,16
+OldRod
+    70,MAGIKARP,17,21
+    30,MAGIKARP,17,20
+GoodRod
+    60,MAGIKARP,16,20
+    20,FEEBAS,16,20
+    20,POLIWAG,17,18
+SuperRod
+    40,GOLDEEN,16,18
+    40,REMORAID,17,19
+    15,CARVANHA,16,17
+    4,FINNEON,15,18
+    1,DRATINI,17
+#-------------------------------
+[069] # Route 8
+Land,21
+    20,MAREEP,16,18
+    20,ODDISH,15,17
+    13,BONSLY,14,16
+    10,DITTO,15,17
+    10,DITTO,16,18
+    10,LOTAD,15,18
+    10,LOTAD,15,17
+    5,BONSLY,14,17
+    1,BONSLY,15,16
+    1,BONSLY,15
+Water,2
+    60,TENTACOOL,14,19
+    30,MANTYKE,15,16
+    10,REMORAID,14,16
+OldRod
+    100,MAGIKARP,16,19
+GoodRod
+    60,BARBOACH,17,18
+    20,KRABBY,15,16
+    20,SHELLDER,16,19
+SuperRod
+    40,CHINCHOU,17,19
+    40,QWILFISH,16,19
+    15,CORSOLA,15,18
+    5,STARYU,15,17
+#-------------------------------
+[070] # Route 8 underwater
+Land,21
+    20,CHINCHOU,17,21
+    20,CLAMPERL,18,20
+    20,SHELLDER,18,20
+    10,CLAMPERL,18,19
+    10,CORSOLA,17,20
+    10,RELICANTH,16,19
+    10,SHELLDER,18,19
+#-------------------------------
+[075] # Tiall Region
+Land,21
+    20,GEODUDE_1,11,14
+    20,RATTATA_1,11,14
+    10,CUBONE,11,14
+    10,DIGLETT_1,11,14
+    10,MEOWTH_1,11,14
+    10,PIKACHU,11,14
+    10,SANDSHREW_1,11,14
+    10,VULPIX_1,11,14
+#-------------------------------
+[081] # Ruta 1 - C. Sierra Aracena
+Land,21
+    20,PATRAT,6,8
+    15,RATTATA,6,9
+    15,SPINARAK,6,9
+    13,POOCHYENA,7,10
+    12,MURKROW,6,9
+    10,LITLEO,7,10
+    6,SHUPPET,8,12
+    5,YUNGOOS,8,10
+    4,SEVIPER,9,12
+#-------------------------------
+[083] # Espartinas - Espartal
+Land,21
+    15,PIDGEY,9,11
+    15,STARLY,9,11
+    10,PURRLOIN,10,11
+    10,SNUBBULL,10,11
+    10,SUNKERN,9,10
+    10,SWABLU,10,11
+    8,GRIMER,9,12
+    5,ELEKID,10,11
+    5,GROWLITHE,10,11
+    5,MAGBY,10,11
+    5,VULPIX,10,11
+    2,PORYGON,12
+#-------------------------------
+[087] # Espartal - Zona Camión Candy
+Land,14
+    15,GASTLY,10,11
+    13,HOUNDOUR,10,11
+    10,NIDORANfE,10,11
+    10,NIDORANmA,10,11
+    10,POOCHYENA,10,11
+    10,SEEDOT,10,11
+    10,SPOINK,11,12
+    8,MISDREAVUS,10,11
+    4,DRIFLOON,10,12
+    4,DUSKULL,10,12
+    2,SABLEYE,10,12
+    2,SNEASEL,10,12
+    2,STUNKY,10,12
+#-------------------------------
+[088] # Ruta 2 - C. Omeyas
+Land,23
+    16,CATERPIE,11,14
+    10,KRICKETOT,14,17
+    10,LEDYBA,12,16
+    10,ODDISH,13,15
+    9,PINECO,14,16
+    8,EKANS,13,15
+    7,BELLSPROUT,14,17
+    7,SEWADDLE,14,16
+    5,ILLUMISE,14,17
+    5,SHROOMISH,14,18
+    5,VENIPEDE,14,18
+    5,VOLBEAT,14,17
+    2,TURTWIG,11,18
+    1,BULBASAUR,12,18
+Water,15
+    25,MAGIKARP,16,18
+    20,SURSKIT,16,18
+    15,YANMA,16,18
+    10,BARBOACH,18,19
+    10,LOTAD,16,19
+    10,WOOPER,16,19
+    5,BUIZEL,17,19
+    5,PSYDUCK,17,19
+#-------------------------------
+[089] # Ruta 2 - Bosque Bichos
+Land,21
+    20,SCATTERBUG,15,17
+    15,VENONAT,16,17
+    15,ZUBAT,15,17
+    10,BUDEW,15,17
+    10,HOOTHOOT,15,17
+    10,HOPPIP,15,17
+    5,EEVEE,15,18
+    5,TEDDIURSA,15,18
+    3,SCYTHER,16,18
+    3,TANGELA,16,18
+    2,HERACROSS,16,18
+    2,PINSIR,16,18
+#-------------------------------
+[090] # Ruta 3 - Instituto Lauretum
+Land,21
+    20,MAREEP,13,17
+    15,SKITTY,14,17
+    10,BLITZLE,15,17
+    10,LILLIPUP,15,17
+    10,MUNNA,15,17
+    10,PONYTA,15,17
+    10,RUFFLET,15,17
+    10,SKIDDO,15,17
+    5,MARILL,16,18
+    5,PAWNIARD,16,18
+    3,MUNCHLAX,16,18
+    2,TREECKO,17,18
+#-------------------------------
+[092] # Ruta 4 - Camino Sevilla
+Land,21
+    15,NUMEL,14,17
+    15,SPEAROW,14,17
+    10,CUBONE,15,17
+    10,ELECTRIKE,15,17
+    10,MACHOP,15,17
+    10,RHYHORN,15,17
+    10,SANDSHREW,15,17
+    7,TRAPINCH,16,17
+    5,ROSELIA,16,17
+    3,GLIGAR,16,18
+    3,TORKOAL,16,18
+    2,CHARMANDER,17,18
+#-------------------------------
+[093] # Ruta 4 - Cueva Rocosa
+Cave,4
+    25,GEODUDE,13,17
+    15,ZUBAT,15,17
+    10,ARON,15,17
+    10,DRILBUR,15,17
+    10,ONIX,15,17
+    10,WOOBAT,15,17
+    5,CUFANT,16,18
+    5,NOSEPASS,16,18
+    5,PHANPY,16,18
+    3,SABLEYE,16,18
+    2,MAWILE,17,18
+#-------------------------------
+[094] # Intersección a Sevilla
+Land,21
+    20,SKWOVET,14,17
+    15,WOOLOO,15,17
+    13,MAKUHITA,14,17
+    12,DODUO,15,17
+    10,PIKACHU,15,17
+    10,SWIRLIX,15,17
+    10,VOLTORB,15,17
+    5,FURFROU,16,18
+    3,RALTS,16,18
+    2,ZORUA,17,18
+#-------------------------------
+[095] # Sevilla
+Land,21
+    15,NATU,13,17
+    15,WINGULL,14,17
+    10,BIDOOF,15,17
+    10,HATENNA,15,17
+    10,PIDOVE,15,17
+    10,PSYDUCK,15,17
+    10,WOOPER,14,17
+    10,YAMPER,14,17
+    8,KARRABLAST,15,18
+    2,ORICORIO,18,19
+Water,8
+    25,MAGIKARP,16,18
+    15,CLAUNCHER,16,19
+    10,BUIZEL,15,19
+    10,HORSEA,15,18
+    10,STARYU,15,18
+    8,SHELLDER,15,18
+    7,CORPHISH,16,18
+    6,POLIWAG,15,19
+    5,QWILFISH,15,19
+    2,ARROKUDA,19
+    1,CRAMORANT,19
+    1,TYNAMO,19
+#-------------------------------
+[101] # Gruta Antigua
+Cave,12
+    15,ROGGENROLA,15,17
+    15,WHISMUR,15,17
+    12,ZUBAT,14,16
+    10,ARON,15,19
+    10,BRONZOR,15,19
+    10,ROLYCOLY,15,17
+    9,BALTOY,15,17
+    8,DIGLETT,15,17
+    5,HONEDGE,15,19
+    3,BAGON,15,19
+    2,GIBLE,15,19
+    1,LARVITAR,15,19
+#-------------------------------
+[107] # Sevilla - Cueva de Triana
+Cave,12
+    20,SWINUB,15,17
+    20,VANILLITE,15,18
+    15,CUBCHOO,15,18
+    15,SANDSHREW_1,15,18
+    10,BERGMITE,15,19
+    5,AMAURA,15,19
+    5,CRYOGONAL,15,19
+    5,SNOM,15,19
+    5,SNOVER,15,19
+#-------------------------------
+[109] # Jaén - Despeñaperros
+Land,20
+    15,SALANDIT,15,17
+    15,TAILLOW,15,17
+    15,ZIGZAGOON,15,17
+    10,MIENFOO,15,19
+    10,PHANPY,16,17
+    10,SILICOBRA,15,17
+    10,SKORUPI,15,19
+    10,VULLABY,16,19
+    4,MEDITITE,19
+    1,DEINO,19
+Water,2
+    18,POLIWAG,20,24
+    15,DEWPIDER,21,24
+    15,SHELLOS,20,24
+    10,BINACLE,21,24
+    10,INKAY,20,24
+    8,LILEEP,26
+    5,BIBAREL,26
+    5,CRABRAWLER,26
+    5,MUDKIP,26
+    5,STUNFISK,26
+    2,FEEBAS,26
+    2,GOOMY,26
+#-------------------------------
+[111] # Jaén - Linares
+Land,21
+    20,PIDGEOTTO,25,26
+    15,HERDIER,24,26
+    15,RATICATE,26
+    10,JIGGLYPUFF,26
+    10,LIEPARD,26
+    10,SUNFLORA,26
+    8,FURRET,26
+    5,DEERLING,26
+    5,PIKACHU,26
+    2,TAUROS,26
+Water,2
+    20,TYMPOLE,24,25
+    20,WOOPER,23,25
+    15,BARBOACH,24,26
+    15,LOTAD,24,25
+    13,PANPOUR,25
+    10,SHELLOS,24,25
+    5,TOTODILE,26
+    2,SKRELP,26
+#-------------------------------
+[115] # Linares - Guarida Psicópater
+Cave,5
+    22,GRAVELER,23,24
+    20,BOLDORE,23,24
+    15,WOOBAT,22,24
+    12,ONIX,25
+    10,ARON,24,25
+    5,MAWILE,25
+    5,SABLEYE,25
+    5,TYRUNT,25
+    3,GIBLE,25
+    3,HONEDGE,25
+#-------------------------------
+[116] # Huelva - Matalascañas
+Land,21
+    20,SANDYGAST,6,9
+    20,WINGULL,6,9
+    15,DIGLETT_1,7,9
+    15,KRABBY,7,9
+    10,CORPHISH,6,9
+    10,EXEGGCUTE,6,9
+    10,PARAS,7,9
+Water,7
+    19,WINGULL,16,19
+    15,FRILLISH,17,18
+    15,HORSEA,16,18
+    10,CLAMPERL,17,19
+    10,MANTYKE,16,19
+    10,REMORAID,17,19
+    10,WAILMER,15,19
+    5,INKAY,19
+    5,PYUKUMUKU,19
+    1,DRATINI,19
+#-------------------------------
+[117] # Jaén - Túnel Acceso
+Cave,5
+    25,GEODUDE,20,24
+    20,NOSEPASS,22,24
+    15,ARON,22,24
+    10,CRANIDOS,23,25
+    10,DWEBBLE,22,24
+    8,MACHOP,23,24
+    5,CARBINK,25
+    5,FALINKS,25
+    2,GRAVELER,25
+#-------------------------------
+[118] # Almería - Desierto Tabernas
+Land,21
+    20,SANDSHREW,22,24
+    18,CACNEA,22,24
+    15,CUBONE,23,24
+    13,SCRAGGY,22,24
+    12,TRAPINCH,23,25
+    10,DARUMAKA,23,25
+    10,HELIOPTILE,24,25
+    2,LARVESTA,24,25
+Water,2
+    25,TENTACOOL,21,24
+    20,FRILLISH,22,24
+    20,STARYU,22,24
+    10,BINACLE,23,24
+    10,CHINCHOU,23,25
+    5,BRUXISH,25
+    5,TIRTOUGA,25
+    5,WISHIWASHI,25
+#-------------------------------
+[122] # Túnel Acceso - P-1
+Cave,5
+    25,ROGGENROLA,21,24
+    20,SLUGMA,22,24
+    15,FERROSEED,22,24
+    15,GOLETT,23,24
+    13,MEDITITE,23,24
+    5,DUNSPARCE,25
+    5,DURANT,25
+    2,AXEW,25
+#-------------------------------
+[123] # P. Nat. Calares - Oeste
+Land,21
+    25,ZIGZAGOON,20,24
+    20,EKANS,22,24
+    20,TAILLOW,23,24
+    15,VULPIX,23,24
+    10,NICKIT,23,24
+    10,TRUMBEAK,23,24
+#-------------------------------
+[125] # P. Nat. Calares - Este
+Land,21
+    25,DODUO,20,24
+    20,MANKEY,22,24
+    15,AIPOM,23,25
+    15,PACHIRISU,22,24
+    10,MINUN,22,24
+    10,PLUSLE,22,24
+    5,KOMALA,24,25
+#-------------------------------
+[127] # Albacete
+Land,21
+    25,MUDBRAY,21,24
+    20,TEDDIURSA,21,24
+    18,WURMPLE,22,24
+    15,HONEDGE,22,24
+    15,JIGGLYPUFF,22,25
+    7,CLEFAIRY,23,25
+Water,2
+    25,DEWPIDER,20,24
+    30,DUCKLETT,20,24
+    25,POLIWAG,20,24
+    10,CHEWTLE,23,25
+    10,WIMPOD,21,25

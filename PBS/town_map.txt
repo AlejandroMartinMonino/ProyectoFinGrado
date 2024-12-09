@@ -1,0 +1,11 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[0]
+Filename = mapRegion0.png
+Name = España
+Point = 8,14,Espartinas,Casa,76,44,34,
+Point = 10,14,Espartal,Zona Tiendas,83,24,18,
+Point = 10,16,Instituto Lauretum,Instituto,90,52,14,
+Point = 10,18,Sevilla,Ciudad Sevilla,95,18,60,
+Point = 14,14,Linares,Base Psicópater,111,26,29
+Point = 14,16,Almería,Ruinas Antiguas,118,23,42

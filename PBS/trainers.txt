@@ -1,0 +1,927 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[CAMPER,Liam]
+LoseText = A very good battle, indeed!
+Pokemon = DIGLETT,10
+Pokemon = BONSLY,11
+#-------------------------------
+[LEADER_Brock,Brock]
+Items = FULLRESTORE,FULLRESTORE
+LoseText = Very good.
+Pokemon = GEODUDE,12
+    Moves = DEFENSECURL,HEADSMASH,ROCKPOLISH,ROCKTHROW
+    AbilityIndex = 0
+    Gender = male
+    IV = 20,20,20,20,20,20
+Pokemon = ONIX,14
+    Name = Rocky
+    Moves = HEADSMASH,ROCKTHROW,RAGE,ROCKTOMB
+    AbilityIndex = 0
+    Item = SITRUSBERRY
+    Gender = male
+    IV = 20,20,20,20,20,20
+    Shiny = true
+    Ball = HEAVYBALL
+#-------------------------------
+[TEAMROCKET_M,Grunt,1]
+LoseText = You're too good for me!
+Pokemon = WEEPINBELL,21
+    Shadow = true
+#-------------------------------
+[TEAMROCKET_F,Grunt,1]
+LoseText = You're too good for me!
+Pokemon = BURMY,19
+Pokemon = WINGULL,19
+Pokemon = ELECTABUZZ,20
+    Shadow = true
+#-------------------------------
+[YOUNGSTER,Ben]
+LoseText = Aww, I lost.
+Pokemon = RATTATA,11
+Pokemon = EKANS,11
+#-------------------------------
+[CAMPER,Jeff]
+LoseText = A very good battle, indeed!
+Pokemon = SPEAROW,16
+Pokemon = SENTRET,16
+#-------------------------------
+[CAMPER,Jeff,1]
+LoseText = You beat me again!
+Pokemon = FEAROW,29
+Pokemon = FURRET,29
+#-------------------------------
+[PICNICKER,Susie]
+LoseText = Defeated! Oh my!
+Pokemon = MEOWTH,18
+#-------------------------------
+[PICNICKER,Susie,1]
+LoseText = Defeated! Oh my!
+Pokemon = PERSIAN,32
+#-------------------------------
+[HIKER,Ford]
+LoseText = You're too good for me!
+Pokemon = MACHOP,19
+#-------------------------------
+[FISHERMAN,Andrew]
+LoseText = Washed out!
+Pokemon = MAGIKARP,14
+Pokemon = MAGIKARP,18
+#-------------------------------
+[BEAUTY,Bridget]
+LoseText = My Skitty!
+Pokemon = SKITTY,18
+#-------------------------------
+[LASS,Crissy]
+LoseText = You didn't have to win so convincingly!
+Pokemon = PLUSLE,17
+Pokemon = MINUN,17
+#-------------------------------
+[COOLCOUPLE,Alice & Bob]
+LoseText = Our teamwork failed!
+Pokemon = TURTWIG,19
+Pokemon = CHIMCHAR,19
+#-------------------------------
+[POKEMONTRAINER_May,May]
+LoseText = ...
+Pokemon = COMBUSKEN,19
+#-------------------------------
+[SWIMMER2_F,Ariel]
+LoseText = Washed out!
+Pokemon = STARYU,15
+Pokemon = GOLDEEN,11
+#-------------------------------
+[RIVAL1,Blue]
+LoseText = Not too shabby.
+Pokemon = PIDGEOTTO,17
+Pokemon = RATTATA,15
+Pokemon = BULBASAUR,18
+#-------------------------------
+[RIVAL1,Blue,1]
+LoseText = Not too shabby.
+Pokemon = PIDGEOTTO,17
+Pokemon = RATTATA,15
+Pokemon = CHARMANDER,18
+#-------------------------------
+[RIVAL1,Blue,2]
+LoseText = Not too shabby.
+Pokemon = PIDGEOTTO,17
+Pokemon = RATTATA,15
+Pokemon = SQUIRTLE,18
+#-------------------------------
+[CHAMPION,Blue]
+LoseText = A good battle indeed!
+Pokemon = VENUSAUR,63
+    Item = SITRUSBERRY
+Pokemon = CHARIZARD,63
+    Item = SITRUSBERRY
+Pokemon = BLASTOISE,63
+    Item = SITRUSBERRY
+#-------------------------------
+[DEOXYS,Deoxys]
+LoseText = ...
+Pokemon = DEOXYS,70
+#-------------------------------
+[BOSS,Gengar]
+LoseText = GENGAAAR
+Pokemon = GENGARBOSS,20
+    Item = BERRYJUICE
+#-------------------------------
+[YOUNGSTER,Chano]
+LoseText = Esto no puede ser.
+Pokemon = RATTATA,7
+Pokemon = STARLY,8
+#-------------------------------
+[LASS,Mariola]
+LoseText = ¡Jigglypuff!
+Pokemon = JIGGLYPUFF,10
+#-------------------------------
+[BUGCATCHER,Alberto]
+LoseText = ¡Mis arañas!
+Pokemon = SPINARAK,7
+Pokemon = SPINARAK,6
+Pokemon = SPINARAK,6
+Pokemon = JOLTIK,5
+#-------------------------------
+[COOLTRAINER_F,María]
+LoseText = No me cabe duda de que estará muy bien contigo.
+Pokemon = POOCHYENA,10
+Pokemon = AIPOM,10
+Pokemon = SHINX,11
+Pokemon = DRILBUR,12
+#-------------------------------
+[BUGCATCHER,Rigoberto]
+LoseText = De vuelta a mi capullo.
+Pokemon = LEDIAN,15
+Pokemon = BEEDRILL,16
+Pokemon = PARAS,17
+#-------------------------------
+[BUGCATCHER,Umberto]
+LoseText = Por algo los bichos son tan comunes.
+Pokemon = VENONAT,15
+Pokemon = SCYTHER,14
+Pokemon = YANMA,16
+    Shiny = true
+#-------------------------------
+[YOUNGSTER,Daniel]
+LoseText = Claro, que tu no eres cazabichos...
+Pokemon = ROGGENROLA,15
+Pokemon = PIDGEOTTO,16
+Pokemon = QUILAVA,16
+#-------------------------------
+[BUGCATCHER,Pedro]
+LoseText = No estoy preparado para el bosque.
+Pokemon = KRICKETUNE,15
+Pokemon = COMBEE,15
+Pokemon = SKORUPI,16
+#-------------------------------
+[BUGCATCHER,Roberto]
+LoseText = Como los bichos, nuestros nombres también son comunes.
+Pokemon = VENIPEDE,15
+Pokemon = BUTTERFREE,16
+Pokemon = BEAUTIFLY,15
+#-------------------------------
+[MINIBOSS,Hypno]
+LoseText = HYP HYP HYYYYYPNO
+Pokemon = HYPNOMINIBOSS,26
+    Item = BERRYJUICE
+#-------------------------------
+[YOUNGSTER,Guille]
+LoseText = Quizá debería volver a clase.
+Pokemon = MAREEP,16
+Pokemon = GROVYLE,17
+Pokemon = DELCATTY,18
+#-------------------------------
+[LASS,Soraya]
+LoseText = Ya no me gustas.
+Pokemon = PLUSLE,17
+Pokemon = SWABLU,18
+Pokemon = PACHIRISU,16
+#-------------------------------
+[YOUNGSTER,Rodrigo]
+LoseText = NOOO! Tenía que ganar para declararme...
+Pokemon = STUNKY,16
+Pokemon = HERDIER,18
+Pokemon = BLITZLE,15
+#-------------------------------
+[COOLTRAINER_M,Manuel]
+LoseText = ¡¿COMO?! Pero si soy el mejor de mi clase.
+Pokemon = MUNNA,17
+Pokemon = PIDGEOTTO,18
+Pokemon = TIMBURR,17
+Pokemon = EMOLGA,16
+#-------------------------------
+[POKEMONRANGER_F,Rosa]
+LoseText = ¡Tu también tienes Pokémon superraros!
+Pokemon = FOONGUS,15
+Pokemon = RUFFLET,16
+Pokemon = SKIDDO,17
+#-------------------------------
+[HIPOCAME,Camero]
+LoseText = ¡Madre como mete!
+Pokemon = DROWZEE,17
+Pokemon = PRINPLUP,18
+Pokemon = NUZLEAF,19
+  Moves = MEGADRAIN,ROLLOUT,GROWTH,FAKEOUT
+  Item = FOCUSSASH
+Pokemon = CAMEPASS,19
+  Moves = THUNDERWAVE,SPARK,ROCKSLIDE,REST
+  AbilityIndex = 2
+  IV = 31,20,25,20,20,25
+  Item = LEFTOVERS
+Pokemon = COMBUSKEN,18
+  Moves = AERIALACE,FLAMECHARGE,QUICKATTACK,DETECT
+#-------------------------------
+[HIPOMARIO,Mariete]
+LoseText = Nooo no lo digaaa
+Pokemon = SLOWPOKE,17
+Pokemon = AKSHUNAT,18
+  Moves = STRUGGLEBUG,CONFUSION,ECHOEDVOICE,POISONPOWDER
+  AbilityIndex = 1
+  IV = 25,20,10,31,31,10
+  Item = REDCARD
+Pokemon = DWEBBLE,18
+Pokemon = PYSKULL,19
+  Moves = SHADOWSNEAK,FURYCUTTER,FEINTATTACK,TAUNT
+  AbilityIndex = 0
+  IV = 20,31,15,30,20,10
+  Item = CHOICEBAND
+Pokemon = MARILL,18
+#-------------------------------
+[HIPOSANTI,Santi]
+LoseText = Añaa añaa
+Pokemon = POLIWHIRL,17
+Pokemon = LOMBRE,19
+Pokemon = SANCHOP,19
+  Moves = LOWSWEEP,KNOCKOFF,ACCELEROCK,SCARYFACE
+  AbilityIndex = 2
+  IV = 20,31,15,30,20,10
+  Item = ASSAULTVEST
+Pokemon = RIOLU,18
+Pokemon = MONFERNO,17
+  Moves = MACHPUNCH,FLAMEWHEEL,FURYSWIPES,TAUNT
+  Item = LEFTOVERS
+#-------------------------------
+[HIPOTONI,Antonio]
+LoseText = Ich liebe dich.
+Pokemon = GASTLY,17
+Pokemon = BELLSPROUT,18
+Pokemon = CUMBONE,19
+  Moves = STEALTHROCK,WILLOWISP,SHADOWSNEAK,ROCKBLAST
+  AbilityIndex = 2
+  IV = 30,21,31,30,20,30
+  Item = LEFTOVERS
+Pokemon = MISTEMIER,18
+  Moves = ARMTHRUST,POWERUPPUNCH,POISONTAIL,POISONGAS
+  AbilityIndex = 2
+  IV = 20,31,25,30,20,10
+  Item = LIFEORB
+Pokemon = SMOOCHUM,18
+#-------------------------------
+[HIPOVICTOR,Victor]
+LoseText = *Se pone a ver TikTok*
+Pokemon = SHELLDER,17
+Pokemon = BAGUETCHD,18
+  Moves = BULLETSEED,DOUBLEHIT,BEATUP,WINGATTACK
+  AbilityIndex = 1
+  IV = 9,31,11,23,31,10
+  Item = LEFTOVERS
+Pokemon = BAGUETT,19
+  Moves = ANCIENTPOWER,SLUDGE,ROUND,DOUBLETEAM
+  AbilityIndex = 2
+  IV = 20,10,25,30,31,10
+  Item = EJECTBUTTON
+Pokemon = FROGADIER,19
+Pokemon = RALTS,17
+Pokemon = SMEARGLE,18
+#-------------------------------
+[CAMPER,Juan]
+LoseText = También es importante traer unos cuantos Revivir.
+Pokemon = CHARMANDER,16
+Pokemon = SPEAROW,16
+Pokemon = GLIGAR,17
+Pokemon = CROAGUNK,18
+#-------------------------------
+[CAMPER,Nicolás]
+LoseText = Voy a seguir atrapando Pokémon.
+Pokemon = ROOKIDEE,15
+Pokemon = TRAPINCH,16
+Pokemon = GULPIN,16
+Pokemon = ELECTRIKE,17
+#-------------------------------
+[HIKER,Francisco]
+LoseText = ¡Cuánta energía!
+Pokemon = CUFANT,16
+Pokemon = LARVITAR,18
+Pokemon = CUBONE,17
+#-------------------------------
+[CAMPER,Álvaro]
+LoseText = Me he dejado el bocadillo en casa...
+Pokemon = SENTRET,15
+Pokemon = CLEFAIRY,16
+Pokemon = PIKACHU,17
+Pokemon = SHINX,17
+#-------------------------------
+[HIPOFAUN,Faun]
+LoseText = Te rrrrreviento
+Pokemon = YAMASK,18
+Pokemon = EXEGGCUTAUN,19
+  Moves = LEECHSEED,PROTECT,INCINERATE,MEGADRAIN
+  Ability = HARVEST 
+  IV = 20,11,11,20,27,20
+  Item = SITRUSBERRY
+Pokemon = GLIGAR,17
+  Item = LEFTOVERS
+Pokemon = HOUNDOUR,18
+  Item = LIFEORB
+Pokemon = MEOWTH,18
+Pokemon = IMPIDIMP,18
+#-------------------------------
+[HIPOSEDE,Saidek]
+LoseText = Muérete
+Pokemon = EEVEE,17
+Pokemon = MAHOUSELIA,19
+  Moves = DRAININGKISS,MAGICALLEAF,PLAYROUGH,STUNSPORE
+  AbilityIndex = 2
+  IV = 14,11,3,25,28,20
+  Item = PIXIEPLATE
+Pokemon = MEOWTH,18
+  Item = SILKSCARF
+Pokemon = TOGEPI,19
+Pokemon = TORKOAL,18
+  Item = LEFTOVERS
+Pokemon = KIRLIA,18
+  Item = CHOICESPECS
+#-------------------------------
+[GAMBLER,Camarón.Jr]
+LoseText = Ay por la raza.
+Pokemon = CLAUNCHER,20
+  Name = Camarón.Jr
+  Moves = AURASPHERE,WATERPULSE,PROTECT,UTURN
+  IV = 0,25,10,30,24,5
+  Item = LEFTOVERS
+Pokemon = CLAWITZER,22
+  Name = Camarón
+  Moves = WATERPULSE,DRAGONPULSE,DARKPULSE,AURASPHERE
+  IV = 31,0,3,0,17,0
+  Item = REDCARD
+#-------------------------------
+[CAMPER,Sergio]
+LoseText = La que me has dado.
+Pokemon = FURRET,18
+Pokemon = POLIWAG,17
+Pokemon = PHANPY,17
+Pokemon = PANSAGE,16
+#-------------------------------
+[PICNICKER,Nicoleta]
+LoseText = Me volveré de vuelta a Córdoba.
+Pokemon = DEERLING,18
+Pokemon = TYMPOLE,18
+Pokemon = ONIX,19
+#-------------------------------
+[HIPOMAFE,Mafebisogu]
+LoseText = Se me han acabado las pipas
+Pokemon = THWACKEY,18
+  Moves = FAKEOUT,UTURN,GRASSYGLIDE,KNOCKOFF
+  AbilityIndex = 0
+  IV = 16,20,24,10,0,16
+  Item = ASSAULTVEST
+Pokemon = MAFCHEN,19
+  Moves = STICKYWEB,DRAGONBREATH,TWINEEDLE,WINGATTACK
+  AbilityIndex = 0
+  IV = 4,31,0,31,0,30
+  Item = FOCUSSASH
+Pokemon = MANTYKE,18
+  Ability = WATERABSORB
+  Item = SITRUSBERRY
+Pokemon = BAGON,17
+Pokemon = MAGNEMITE,18
+  Item = WISEGLASSES
+Pokemon = TRAPINCH,18
+#-------------------------------
+[BOSS,Garbodor]
+LoseText = GAR GAAAR
+Pokemon = GARBODORBOSS,28
+    Moves = TOXIC,ICICLESPEAR,POISONFANG,ROCKSMASH
+    Item = SITRUSBERRY
+#-------------------------------
+[HIKER,Rogelio]
+LoseText = ¡Jojojo, bien hecho joven!
+Pokemon = ROCKRUFF,18
+   IV = 5,18,24,6,15,6
+   Item = MUSCLEBAND
+Pokemon = AXEW,16
+Pokemon = MAKUHITA,17
+Pokemon = NUMEL,16
+Pokemon = GRAVELER,18
+#-------------------------------
+[BLACKBELT,Brock Lee]
+LoseText = ¡Con más fuerza!
+Pokemon = KUBFU,19
+   IV = 16,24,14,20,15,6
+   Item = MUSCLEBAND
+   Moves = LOWSWEEP,AERIALACE,SUBSTITUTE,FIREPUNCH
+Pokemon = SAWK,19
+   Moves = ROCKSLIDE,LOWSWEEP,THUNDERPUNCH,THROATCHOP
+Pokemon = TIMBURR,19
+Pokemon = THROH,18
+   Moves = STORMTHROW,ROCKSLIDE,LOWSWEEP,BULKUP
+Pokemon = FALINKS,19
+   Moves = FIRSTIMPRESSION,HEADBUTT,BRICKBREAK,ROCKTOMB
+Pokemon = BOLDORE,21
+   IV = 31,20,30,16,3,17
+   Item = WEAKNESSPOLICY
+   Moves = STEALTHROCK,ROCKSLIDE,ROCKPOLISH,EXPLOSION
+#-------------------------------
+[POKEMONBREEDER,Melina]
+LoseText = Veo que no es suficiente mimo.
+Pokemon = BRIONNE,18
+   IV = 25,1,24,6,25,13
+   Item = SITRUSBERRY
+Pokemon = FLAAFFY,18
+Pokemon = CHANSEY,17
+   IV = 28,10,5,30,14,0
+   Moves = SOFTBOILED,SEISMICTOSS,LIGHTSCREEN,SWEETKISS
+   Item = LEFTOVERS
+Pokemon = DRATINI,17
+Pokemon = PIKACHU,19
+#-------------------------------
+[YOUNGSTER,Galileo]
+LoseText = ¡No le cuentes a mamá nada!
+Pokemon = STARAVIA,19
+   Moves = TAKEDOWN,DUALWINGBEAT,QUICKATTACK,FINALGAMBIT
+   Item = SILKSCARF
+   IV = 26,17,3,12,23,6
+Pokemon = LUXIO,18
+   Moves = SPARK,VOLTSWITCH,BITE,ICEFANG
+   IV = 18,21,13,18,22,4
+Pokemon = FLETCHINDER,17
+Pokemon = PANSEAR,17
+   Moves = INCINERATE,SOLARBEAM,SUBSTITUTE,WORKUP
+   Item = POWERHERB
+#-------------------------------
+[COOLTRAINER_F,Anabel]
+LoseText = ¡Estás a la altura!
+Pokemon = KADABRA,23
+Pokemon = CHARMELEON,24
+   Moves = DRAGONBREATH,INCINERATE,SUNNYDAY,FIRESPIN
+   Item = EVIOLITE
+   IV = 19,10,16,13,21,12
+Pokemon = IVYSAUR,23
+   Moves = SLEEPPOWDER,LEECHSEED,RAZORLEAF,GIGADRAIN
+Pokemon = ELECTABUZZ,23
+   Moves = THUNDERWAVE,DRAINPUNCH,VOLTSWITCH,DISCHARGE
+   Item = EVIOLITE
+   IV = 20,19,18,30,18,23
+Pokemon = RHYHORN,22
+   Moves = DRILLRUN,ROCKTOMB,ICEFANG,REVERSAL
+   Item = MUSCLEBAND
+   IV = 18,30,12,17,10,24
+#-------------------------------
+[COOLTRAINER_M,Eustaquio]
+LoseText = No creas que me daré por vencido tan fácilmente.
+Pokemon = SLURPUFF,21
+   Ability = UNBURDEN
+   IV = 25,1,20,16,26,17
+   Moves = DRAININGKISS,FLAMETHROWER,ATTRACT,SUBSTITUTE
+   Item = SITRUSBERRY
+Pokemon = KROKOROK,22
+   Ability = INTIMIDATE
+   IV = 11,28,17,24,10,7
+   Moves = BITE,DIG,KNOCKOFF,SKITTERSMACK
+Pokemon = SKARMORY,23
+   Ability = STURDY
+   IV = 18,11,21,14,16,20
+   Moves = SPIKES,STEALTHROCK,ROOST,BRAVEBIRD
+   Item = ROCKYHELMET
+Pokemon = PALPITOAD,22
+   Ability = WATERABSORB
+   IV = 8,11,19,14,22,16
+   Moves = SURF,EARTHPOWER,ICYWIND,SLUDGEBOMB
+#-------------------------------
+[PICNICKER,Lucía]
+LoseText = ¡Chao Pescao!
+Pokemon = TRUMBEAK,22
+   Ability = SKILLLINK
+   IV = 9,30,16,31,16,22
+   Moves = ROCKBLAST,BULLETSEED,FURYATTACK,PROTECT
+   Item = KINGSROCK
+Pokemon = SCRAGGY,21
+   Ability = INTIMIDATE
+Pokemon = MAGMAR,22
+   Ability = FLAMEBODY
+   IV = 30,12,21,15,20,17
+   Moves = LAVAPLUME,ACIDSPRAY,REST,SCORCHINGSANDS
+   Item = WISEGLASSES
+Pokemon = SKIDDO,24
+   Ability = GRASSPELT
+   IV = 31,27,29,10,17,8
+   Moves = GRASSYTERRAIN,LEECHSEED,PROTECT,HORNLEECH
+   Item = GRASSYSEED
+#-------------------------------
+[HIPOUNFITTIN,Unfittintitan]
+LoseText = ¡Je, imposible!
+Pokemon = DRIFLOON,25
+   Ability = AFTERMATH
+   IV = 30,13,20,30,21,18
+   Moves = DESTINYBOND,WILLOWISP,TAILWIND,HEX
+   Item = FOCUSSASH
+Pokemon = GEOFFITIN,26
+   Ability = CALORINTERNO
+   IV = 25,31,24,18,15,4
+   Moves = FIREPUNCH,SELFDESTRUCT,ROCKBLAST,THUNDERPUNCH
+   Item = MUSCLEBAND
+Pokemon = WHIMSICOTT,24
+   Ability = PRANKSTER
+   IV = 10,11,19,30,22,14
+   Moves = MEMENTO,STUNSPORE,LEECHSEED,MOONBLAST
+   Item = LEFTOVERS
+Pokemon = DUSKULL,26
+   Ability = LEVITATE
+   IV = 30,31,31,8,14,31
+   Moves = PAINSPLIT,KNOCKOFF,WILLOWISP,SHADOWSNEAK
+   Item = EVIOLITE
+Pokemon = METANG,25
+   Ability = CLEARBODY
+   IV = 28,31,26,17,19,30
+   Moves = BULLETPUNCH,ZENHEADBUTT,IRONHEAD,THUNDERPUNCH
+Pokemon = FERROSEED,26
+   Ability = IRONBARBS
+   IV = 18,26,30,4,20,26
+   Moves = EXPLOSION,STEALTHROCK,PROTECT,BULLETSEED
+   Item = OCCABERRY
+#-------------------------------
+[HIPOSANTI,Santi,1]
+LoseText = Añaa añaa
+Pokemon = PINSIR,24
+  Ability = MOLDBREAKER
+  IV = 31,18,27,22,19,24
+  Moves = BUGBITE,CIRCLETHROW,DIG,STEALTHROCK
+Pokemon = POLIWHIRL,24
+  Ability = WATERABSORB
+  IV = 30,24,28,14,10,14
+  Moves = BODYSLAM,RAINDANCE,LOWKICK,LIQUIDATION
+Pokemon = LOMBRE,25
+  Ability = SWIFTSWIM
+  IV = 24,10,20,19,27,20
+  Moves = FAKEOUT,ENERGYBALL,SURF,ICEBEAM
+  Item = LIFEORB
+Pokemon = SANCHOKE,28
+  Moves = LOWSWEEP,KNOCKOFF,ACCELEROCK,SCARYFACE
+  Ability = GORILLATACTICS
+  IV = 20,31,15,30,20,10
+  Item = MUSCLEBAND
+Pokemon = RIOLU,23
+  Ability = INNERFOCUS
+  IV = 8,31,10,30,10,10
+  Moves = REVERSAL,COUNTER,QUICKATTACK,PROTECT
+  Item = FOCUSSASH
+Pokemon = MONFERNO,23
+  Ability = IRONFIST
+  IV = 21,26,19,24,25,19
+  Moves = MACHPUNCH,FIREPUNCH,THUNDERPUNCH,ACROBATICS
+  Item = WEAKNESSPOLICY
+#-------------------------------
+[HIPOALPHEAR,Alphear]
+LoseText = ¡La leche! Sí que eres fuerte.
+Pokemon = TENTACOOL,23
+   Ability = CLEARBODY
+   IV = 29,10,28,18,25,26
+   Moves = SPIKES,VENOSHOCK,PROTECT,SURF
+   Item = SITRUSBERRY
+Pokemon = MAHOUSELIA,23
+   Ability = MAGICBOUNCE
+   IV = 18,15,10,22,17,11
+   Moves = LEAFTORNADO,DRAININGKISS,DAZZLINGGLEAM,HEX
+Pokemon = MORGREM,24
+   Ability = PRANKSTER
+   IV = 18,30,12,21,14,6
+   Moves = FAKEOUT,REFLECT,LIGHTSCREEN,FOULPLAY
+   Item = LIGHTCLAY
+Pokemon = DITTO,24
+   Ability = IMPOSTER
+   Item = QUICKPOWDER
+Pokemon = LICKITUNG,24
+   Ability = OBLIVIOUS
+   IV = 16,10,20,21,16,20
+   Moves = SLACKOFF,PROTECT,SHADOWBALL,FIREBLAST
+Pokemon = GOLISOPOD,26
+   Ability = EMERGENCYEXIT
+   IV = 8,13,14,14,20,5
+   Moves = FURYCUTTER,IRONDEFENSE,RAZORSHELL,SCREECH
+#-------------------------------
+[PSICODOBLE,Alexdarkvels & Yopeh]
+LoseText = ¡Una polla chaval!
+Pokemon = SOULSEDGE,26
+   Ability = STEELWORKER
+   IV = 30,15,14,17,10,21
+   Moves = SHADOWSNEAK,FLAMEWHEEL,SLASH,NIGHTSLASH
+   Item = LIFEORB
+Pokemon = SOULSEDGE,26
+   Shiny = True
+   Ability = STEELWORKER
+   IV = 4,28,3,31,18,7
+   Moves = FLAMEWHEEL,SLASH,NIGHTSLASH,AERIALACE
+   Item = CHOICESCARF
+Pokemon = PRIMEAPE,23
+   Ability = DEFIANT
+   IV = 19,10,14,12,13,21
+Pokemon = SNORLAX,22
+   Ability = GLUTTONY
+   IV = 11,7,11,10,10,18
+   Item = SITRUSBERRY
+Pokemon = MAREANIE,21
+   Ability = MERCILESS
+   IV = 31,17,25,14,15,18
+   Moves = POISONGAS,BITE,PROTECT,PINMISSILE
+Pokemon = FOONGUS,22
+   Ability = EFFECTSPORE
+   IV = 15,10,15,10,18,18
+   Moves = RAGEPOWDER,SPORE,POLLENPUFF,SYNTHESIS
+#-------------------------------
+[HIPOVICTOR,Victor,1]
+LoseText = *Se pone a ver TikTok*
+Pokemon = CLOYSTER,26
+  Ability = SKILLLINK
+  IV = 28,24,30,14,20,15
+  Moves = SURF,ICICLESPEAR,SHELLSMASH,PROTECT
+Pokemon = BAGUETCHD,24
+  Ability = MOXIE
+  Moves = BULLETSEED,ENDEAVOR,PLAYROUGH,DUALWINGBEAT
+  IV = 19,21,11,23,31,10
+  Item = MUSCLEBAND
+Pokemon = MOUSQUETRIO,26
+  Ability = BERSERK
+  Moves = ANCIENTPOWER,SLUDGE,TRIATTACK,DOUBLETEAM
+  IV = 20,10,25,30,31,10
+  Item = REDCARD
+Pokemon = FROGADIER,26
+  Ability = PROTEAN
+  Moves = WATERPULSE,UTURN,GRASSKNOT,ICEBEAM
+  IV = 15,17,17,14,23,16
+Pokemon = KIRLIA,24
+  Ability = TRACE
+  Moves = DRAININGKISS,REFLECT,LIGHTSCREEN,SHADOWBALL
+  IV = 31,10,30,17,26,30
+Pokemon = SMEARGLE,22
+  Ability = MOODY
+  IV = 31,10,31,30,18,30
+  Moves = FAKEOUT,SPORE,PRECIPICEBLADES,ORIGINPULSE
+  Item = LEFTOVERS
+#-------------------------------
+[MINIBOSS,Wailord]
+LoseText = WAIII
+Pokemon = WAILORDMINIBOSS,30
+    Moves = WHIRLPOOL,BOUNCE,DEFENSECURL,AMNESIA
+    Item = SITRUSBERRY
+#-------------------------------
+[HIKER,Fabián]
+LoseText = Me deslizo a la derrota como una roca colina abajo.
+Pokemon = SHIELDON,23
+   Ability = STURDY
+   IV = 21,18,21,25,15,15
+   Moves = STEALTHROCK,METALBURST,ROAR,ROCKSLIDE
+Pokemon = GRAVELER,24
+   Ability = ROCKHEAD
+   IV = 21,16,14,20,18,24
+   Moves = DOUBLEEDGE,DIG,ROCKSLIDE,SELFDESTRUCT
+   Item = MUSCLEBAND
+Pokemon = NUMEL,23
+   Ability = OBLIVIOUS
+   IV = 24,10,25,18,30,28
+   Moves = LAVAPLUME,EARTHPOWER,SUNNYDAY,PROTECT
+   Item = WISEGLASSES
+#-------------------------------
+[RUINMANIAC,Santiago]
+LoseText = Los metales también se quiebran.
+Pokemon = GURDURR,24
+   Ability = SHEERFORCE
+   IV = 21,10,15,25,15,20
+   Moves = ROCKSLIDE,BULKUP,LOWSWEEP,THUNDERPUNCH 
+Pokemon = HONEDGE,22
+   Ability = NOGUARD
+   IV = 20,21,20,18,14,24
+   Moves = IRONHEAD,SHADOWSNEAK,SWORDSDANCE,NIGHTSLASH
+Pokemon = TYNAMO,25
+   Ability = LEVITATE
+   IV = 31,28,18,30,19,23
+   Moves = THUNDERWAVE,KNOCKOFF,SPARK,TACKLE
+   Item = FOCUSSASH
+Pokemon = CUFANT,22
+#-------------------------------
+[COOLTRAINER_F,Julia]
+LoseText = ¡Un digno rival!
+Pokemon = HITMONTOP,23
+   Ability = INTIMIDATE
+   Moves = FAKEOUT,LOWSWEEP,GYROBALL,DIG
+   Item = LEFTOVERS
+Pokemon = FLOATZEL,24
+   Moves = LIQUIDATION,AQUAJET,CRUNCH,ICEFANG
+Pokemon = DARUMAKA,23
+   Ability = HUSTLE
+   Moves = FIREPUNCH,BITE,HEADBUTT,BRICKBREAK
+   Item = CHOICEBAND
+   IV = 31,31,22,31,20,25
+Pokemon = PASSIMIAN,21
+   Ability = DEFIANT
+   Moves = TAKEDOWN,LOWSWEEP,UTURN,SEEDBOMB
+   Item = MUSCLEBAND
+#-------------------------------
+[COOLTRAINER_M,Julio]
+LoseText = ¿Qué es lo que me falta?
+Pokemon = CARKOL,23
+   Ability = STEAMENGINE
+   Moves = STEALTHROCK,ROCKSLIDE,HEATCRASH,BULLDOZE
+   Item = WEAKNESSPOLICY
+   IV = 31,21,30,25,2,26
+Pokemon = LINOONE,24
+Pokemon = VULLABY,26
+   Ability = WEAKARMOR
+   Moves = ROOST,FOULPLAY,KNOCKOFF,PLUCK
+   Item = EVIOLITE
+   IV = 28,30,22,23,10,24
+#-------------------------------
+[COOLTRAINER_M,Augusto]
+LoseText = No soy digno...
+Pokemon = DONPHAN,25
+   Ability = STURDY
+   Moves = KNOCKOFF,ICESHARD,ROLLOUT,BULLDOZE
+   Item = LEFTOVERS
+   IV = 25,23,20,21,2,19
+Pokemon = MIGHTYENA,24
+Pokemon = KANGASKHAN,23
+   Ability = SCRAPPY
+   Moves = FAKEOUT,DOUBLEHIT,BITE,BRICKBREAK
+   Item = MUSCLEBAND
+   IV = 21,25,22,13,10,18
+#-------------------------------
+[POKEMONRANGER_F,Juliana]
+LoseText = Vienes con todo preparado sin dudas.
+Pokemon = SANDSLASH,26
+   Ability = SANDVEIL
+   Moves = SANDSTORM,BULLDOZE,RAPIDSPIN,FURYSWIPES
+   Item = BRIGHTPOWDER
+Pokemon = MARSHTOMP,24
+   Ability = TORRENT
+   Moves = ROCKTHROW,HYDROPUMP,MUDBOMB,LOWKICK
+Pokemon = SILICOBRA,25
+   Ability = SANDSPIT
+   Moves = BULLDOZE,GLARE,WRAP,HEADBUTT
+   IV = 24,20,26,13,10,23
+   Item = EVIOLITE
+#-------------------------------
+[POKEMONRANGER_M,Manuel]
+LoseText = ¡Tendré que mejorar mi estrategia!
+Pokemon = HIPPOPOTAS,25
+   Ability = SANDSTREAM
+   Moves = BULLDOZE,PROTECT,YAWN,CRUNCH
+   Item = SMOOTHROCK
+Pokemon = GLIGAR,24
+   Ability = SANDVEIL
+   Moves = QUICKATTACK,POISONTAIL,UTURN,SLASH
+   Item = BRIGHTPOWDER
+Pokemon = DRILBUR,26
+   Ability = SANDFORCE
+   Moves = CRUSHCLAW,ROCKSLIDE,DIG,HONECLAWS
+   IV = 14,25,26,10,10,23
+   Item = MUSCLEBAND
+Pokemon = MAGMAR,26
+   Ability = FLAMEBODY
+   Moves = FOLLOWME,WILLOWISP,HELPINGHAND,HEATWAVE
+   IV = 30,15,26,18,21,23
+   Item = SAFETYGOGGLES
+#-------------------------------
+[RUINMANIAC,Adolfo]
+LoseText = ¡Mi tesoro!
+Pokemon = TYRUNT,25
+   Ability = STRONGJAW
+   Moves = CRUNCH,DRAGONCLAW,ICEFANG,FIREFANG
+   Item = MUSCLEBAND
+Pokemon = PALPITOAD,26
+   Ability = WATERABSORB
+   Moves = SCALD,MUDBOMB,ICYWIND,SLUDGEBOMB
+   Item = ASSAULTVEST
+#-------------------------------
+[PAINTER,Mia]
+LoseText = ¡Sí, así, es perfectoo!
+Pokemon = APPLETUN,26
+   Ability = THICKFAT
+   Moves = APPLEACID,PROTECT,REST,DRAGONPULSE
+   Item = ROCKYHELMET
+   IV = 23,5,26,18,13,27
+Pokemon = JUMPLUFF,26
+   Ability = INFILTRATOR
+   Moves = BULLETSEED,SLEEPPOWDER,AERIALACE,LUNGE
+   Item = LEFTOVERS
+Pokemon = CHIMECHO,25
+   Ability = LEVITATE
+   Moves = CALMMIND,STOREDPOWER,YAWN,PROTECT
+   Item = LEFTOVERS
+#-------------------------------
+[CRUSHGIRL,Saira]
+LoseText = ¡Cómo queeemaaaa!
+Pokemon = MACHOKE,26
+   Ability = GUTS
+   Moves = PROTECT,BRICKBREAK,DOUBLEHIT,BULLETPUNCH
+   Item = FLAMEORB
+Pokemon = HARIYAMA,24
+   Ability = GUTS
+   Moves = FAKEOUT,BULLETPUNCH,ARMTHRUST,ROCKTOMB
+   Item = FLAMEORB
+#-------------------------------
+[HIKER,Rodrigo]
+LoseText = Anda si eres humano.
+Pokemon = SLUGMA,25
+   Ability = FLAMEBODY
+   IV = 30,18,24,25,20,21
+   Moves = CLEARSMOG,POWERGEM,HEATWAVE,OVERHEAT
+   Item = WISEGLASSES
+Pokemon = GOLETT,24
+   Ability = ARROLLADOR
+   IV = 21,26,20,30,18,18
+   Moves = SHADOWPUNCH,STOMPINGTANTRUM,LOWKICK,FACADE
+   Item = MUSCLEBAND
+#-------------------------------
+[HIKER,Agostino]
+LoseText = Tengo mis Balls preparadas aunque me ganes.
+Pokemon = ARON,25
+   Ability = HEAVYMETAL
+   IV = 24,28,24,25,20,21
+   Moves = HEAVYSLAM,ROCKSLIDE,HEADBUTT,IRONHEAD
+   Item = FOCUSSASH
+Pokemon = KLINK,26
+   Ability = CLEARBODY
+   Item = MUSCLEBAND
+Pokemon = ARON,24
+#-------------------------------
+[HIKER,Ruperto]
+LoseText = ¡Eres una máquina!.
+Pokemon = LARVITAR,25
+   Ability = GUTS
+   IV = 27,20,17,29,20,11
+   Moves = PROTECT,ROCKSLIDE,DRAGONDANCE,STOMPINGTANTRUM
+   Item = FLAMEORB
+Pokemon = SANDILE,24
+   Ability = INTIMIDATE
+   Item = MUSCLEBAND
+Pokemon = GEODUDE,25
+#-------------------------------
+[CRUSHGIRL,Abril]
+LoseText = Tengo que entrenar más.
+Pokemon = HITMONTOP,25
+   Ability = INTIMIDATE
+   Moves = FAKEOUT,BRICKBREAK,DIG,ICEPUNCH
+   Item = ASSAULTVEST
+Pokemon = HITMONLEE,25
+   Ability = UNBURDEN
+   Moves = BLAZEKICK,LOWKICK,LOWSWEEP,TRIPLEKICK
+   Item = FOCUSSASH
+Pokemon = HITMONCHAN,25
+   Ability = IRONFIST
+   Moves = BULLETPUNCH,THUNDERPUNCH,FIREPUNCH,DRAINPUNCH
+   Item = MUSCLEBAND
+#-------------------------------
+[POKEMONRANGER_F,Jasmina]
+LoseText = Hay que cuidar la naturaleza.
+Pokemon = BRELOOM,25
+Pokemon = DRIZZILE,24
+Pokemon = FLETCHINDER,25
+#-------------------------------
+[CAMPER,Antonio]
+LoseText = ¡Mecachis! No tengo chope para el bocadillo.
+Pokemon = FEAROW,24
+Pokemon = WHIRLIPEDE,24
+Pokemon = BLITZLE,25
+Pokemon = MANKEY,23
+#-------------------------------
+[PICNICKER,Aroa]
+LoseText = O el doble de derrota...
+Pokemon = QUAGSIRE,23
+Pokemon = LUXIO,24
+Pokemon = SOLROCK,25
+Pokemon = LUNATONE,25
+#-------------------------------
+[CAMPER,Bambino]
+LoseText = ¿Le dolerán el doble los golpes?
+Pokemon = DODUO,25
+Pokemon = DODUO,24
+#-------------------------------
+[YOUNGSTER,Ricardo]
+LoseText = No sé lo que es pero suena guay.
+Pokemon = KOMALA,25
+Pokemon = GROWLITHE,24
+Pokemon = PACHIRISU,26
+#-------------------------------
+[GAMBLER,Juan Manuel]
+LoseText = ¿¡Cómo te has dado cuenta!?
+Pokemon = DELCATTY,25
+Pokemon = PLUSLE,26
+Pokemon = SLOWPOKE,26
+#-------------------------------
+[POKEMONRANGER_M,Francis]
+LoseText = Creo que me presentaré a algún torneo.
+Pokemon = PARASECT,24
+Pokemon = DEDENNE,23
+Pokemon = XATU,25
+Pokemon = BIBAREL,24
+Pokemon = DUSTOX,23
+Pokemon = VIBRAVA,22
